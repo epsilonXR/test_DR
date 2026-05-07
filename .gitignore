@@ -144,3 +144,4 @@ aligned_features_drvalid/removed_missing_DR_FVs_ViT-g-14.csv
 aligned_features_drvalid/removed_missing_DR_FVs_ViT-L-14.csv
 aligned_FVs_biomed_metadata.csv
 aligned_FVs_biomed.npz
+*.zip
