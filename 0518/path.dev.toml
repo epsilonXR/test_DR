@@ -1,0 +1,6 @@
+[paths]
+aligned_dir = "../aligned_features_drvalid"
+pca_output_dir = "outputs/pca"
+[pca]
+n_components = 50
+standardize = true

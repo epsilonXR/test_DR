@@ -191,3 +191,12 @@ Kfold/kfold_pc_removal_6models/FVs_medsiglip_kfold_performance.csv
 Kfold/kfold_pc_removal_6models/FVs_medsiglip_pc_selection_detail.csv
 Kfold/kfold_pc_removal_one_model/FVs_medsiglip_kfold_performance.csv
 Kfold/kfold_pc_removal_one_model/FVs_medsiglip_pc_selection_detail.csv
+0518/0518/output/qwk/figures/qwk_6_models_raw_clean_delta.png
+0518/output/qwk/max1/fold_qwk_max1.csv
+0518/output/qwk/max1/score_qwk_max1.csv
+0518/output/qwk/max1/selection_qwk_max1.csv
+0518/output/qwk/max1/summary_qwk_max1.csv
+0518/output/qwk/max3/fold_qwk_max3.csv
+0518/output/qwk/max3/score_qwk_max3.csv
+0518/output/qwk/max3/selection_qwk_max3.csv
+0518/output/qwk/max3/summary_qwk_max3.csv
